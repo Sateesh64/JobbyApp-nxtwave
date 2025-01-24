@@ -55,7 +55,6 @@ const salaryRangesList = [
 
 console.log(employmentTypesList, salaryRangesList)
 
-// Replace your code here
 
 const App = () => (
   <>
